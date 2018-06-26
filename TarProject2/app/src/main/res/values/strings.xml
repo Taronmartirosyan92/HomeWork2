@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TarProject2</string>
+    <string name="name">Name</string>
+    <string name="lastName">LastName</string>
+    <string name="agreement">agreement</string>
+    <string name="enter">Enter</string>
+    <string name="your_name_is">Your Name is</string>
+    <string name="your_lastName_is">Your lastName is</string>
+    <string name="lastName_empty">lastName empty</string>
+    <string name="name_empty">name empty</string>
+    <string name="save">Save</string>
+    <string name="yourName">Your nam is</string>
+    <string name="YourLastName">Your LastName is</string>
+</resources>
